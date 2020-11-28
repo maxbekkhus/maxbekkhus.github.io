@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"9nkr":function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),l=t.n(a),u=t("VXBa"),c=t("uKHj");e.default=function(){return l.a.createElement(u.a,null,l.a.createElement(c.a,null,l.a.createElement("h1",null,"Contact")))}}}]);
+//# sourceMappingURL=component---src-pages-kontakt-tsx-8beab8e00bd472734223.js.map
